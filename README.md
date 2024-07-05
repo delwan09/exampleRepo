@@ -2,10 +2,11 @@
 
 Hello I am _**Dina**_!
 
-My first repository
+My first repository!
 
 I am learning about Github!
 
-I am a web developer!
-
-Hello again!
+_**Things that I lik to do**_:
+* Read
+* Learn
+* walk
